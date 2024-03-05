@@ -1,0 +1,14 @@
+/Users/V/Code/w3-Excercises/SwapNumbers/bin/Debug/net8.0/SwapNumbers
+/Users/V/Code/w3-Excercises/SwapNumbers/bin/Debug/net8.0/SwapNumbers.deps.json
+/Users/V/Code/w3-Excercises/SwapNumbers/bin/Debug/net8.0/SwapNumbers.runtimeconfig.json
+/Users/V/Code/w3-Excercises/SwapNumbers/bin/Debug/net8.0/SwapNumbers.dll
+/Users/V/Code/w3-Excercises/SwapNumbers/bin/Debug/net8.0/SwapNumbers.pdb
+/Users/V/Code/w3-Excercises/SwapNumbers/obj/Debug/net8.0/SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/V/Code/w3-Excercises/SwapNumbers/obj/Debug/net8.0/SwapNumbers.AssemblyInfoInputs.cache
+/Users/V/Code/w3-Excercises/SwapNumbers/obj/Debug/net8.0/SwapNumbers.AssemblyInfo.cs
+/Users/V/Code/w3-Excercises/SwapNumbers/obj/Debug/net8.0/SwapNumbers.csproj.CoreCompileInputs.cache
+/Users/V/Code/w3-Excercises/SwapNumbers/obj/Debug/net8.0/SwapNumbers.dll
+/Users/V/Code/w3-Excercises/SwapNumbers/obj/Debug/net8.0/refint/SwapNumbers.dll
+/Users/V/Code/w3-Excercises/SwapNumbers/obj/Debug/net8.0/SwapNumbers.pdb
+/Users/V/Code/w3-Excercises/SwapNumbers/obj/Debug/net8.0/SwapNumbers.genruntimeconfig.cache
+/Users/V/Code/w3-Excercises/SwapNumbers/obj/Debug/net8.0/ref/SwapNumbers.dll

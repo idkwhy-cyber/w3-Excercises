@@ -1,0 +1,14 @@
+/Users/V/Code/w3-Excercises/2-number-divider/bin/Debug/net8.0/w3-Excercises
+/Users/V/Code/w3-Excercises/2-number-divider/bin/Debug/net8.0/w3-Excercises.deps.json
+/Users/V/Code/w3-Excercises/2-number-divider/bin/Debug/net8.0/w3-Excercises.runtimeconfig.json
+/Users/V/Code/w3-Excercises/2-number-divider/bin/Debug/net8.0/w3-Excercises.dll
+/Users/V/Code/w3-Excercises/2-number-divider/bin/Debug/net8.0/w3-Excercises.pdb
+/Users/V/Code/w3-Excercises/2-number-divider/obj/Debug/net8.0/w3-Excercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/V/Code/w3-Excercises/2-number-divider/obj/Debug/net8.0/w3-Excercises.AssemblyInfoInputs.cache
+/Users/V/Code/w3-Excercises/2-number-divider/obj/Debug/net8.0/w3-Excercises.AssemblyInfo.cs
+/Users/V/Code/w3-Excercises/2-number-divider/obj/Debug/net8.0/w3-Excercises.csproj.CoreCompileInputs.cache
+/Users/V/Code/w3-Excercises/2-number-divider/obj/Debug/net8.0/w3-Excercises.dll
+/Users/V/Code/w3-Excercises/2-number-divider/obj/Debug/net8.0/refint/w3-Excercises.dll
+/Users/V/Code/w3-Excercises/2-number-divider/obj/Debug/net8.0/w3-Excercises.pdb
+/Users/V/Code/w3-Excercises/2-number-divider/obj/Debug/net8.0/w3-Excercises.genruntimeconfig.cache
+/Users/V/Code/w3-Excercises/2-number-divider/obj/Debug/net8.0/ref/w3-Excercises.dll
